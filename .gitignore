@@ -1,4 +1,2 @@
-RewriteEngine ON
-Options All -Indexes
-RewriteRule ^([a-zA-Z0-9/ñÑ-]+)$ index.php?views=$1
-dpweb/
+config.php
+uploads/productos/*
