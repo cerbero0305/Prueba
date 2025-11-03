@@ -7,5 +7,5 @@ const BD_CHARSET = 'utf8';
 
 //ingresar link de proyecto
 
-const BASE_URL ='http://localhost/dpweb/';
+const BASE_URL ='http://localhost/prueba/';
 ?>
